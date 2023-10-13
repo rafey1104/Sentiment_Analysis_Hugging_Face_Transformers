@@ -1,50 +1,6 @@
-<!-- <!DOCTYPE html>
-<html>
-
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-
-        h1 {
-            font-size: 24px;
-        }
-
-        h2 {
-            font-size: 20px;
-        }
-
-        h3 {
-            font-size: 18px;
-        }
-
-        p {
-            font-size: 16px;
-        }
-
-        a {
-            color: #0366d6;
-        }
-
-        ul {
-            list-style-type: disc;
-        }
-
-        ol {
-            list-style-type: decimal;
-        }
-
-    </style>
-</head>
-
-<body> -->
-    <h1>Instagram PlayStore Review Analysis</h1>
-
+<h1>Instagram PlayStore Review Analysis</h1>
     <h2>Project Overview</h2>
     <p>This GitHub repository contains the code and resources used for analyzing Instagram PlayStore reviews. The project's primary goal is to perform sentiment analysis on user reviews to gain insights into user satisfaction and feedback regarding the Instagram mobile app.</p>
-
     <h2>Data Pre-processing</h2>
 
     <h3>Step 1: Data Collection</h3>
@@ -117,6 +73,4 @@
     <p>This project is open-source and available under the <a href="LICENSE">MIT License</a>.</p>
 
     <p>Feel free to contribute, report issues, or provide feedback. Your contributions are highly appreciated!</p>
-</body>
 
-</html>
