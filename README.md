@@ -2,13 +2,11 @@
     <h2>Project Overview</h2>
     <p>This GitHub repository contains the code and resources used for analyzing Instagram PlayStore reviews. The project's primary goal is to perform sentiment analysis on user reviews to gain insights into user satisfaction and feedback regarding the Instagram mobile app.</p>
     <h2>Data Pre-processing</h2>
-
     <h3>Step 1: Data Collection</h3>
     <ul>
         <li>The Instagram PlayStore Review Dataset was obtained from Kaggle, a reputable platform for datasets.</li>
         <li>Dataset source: <a href="https://www.kaggle.com/datasets/saloni1712/instagram-play-store-reviews">Kaggle Instagram PlayStore Review Dataset</a></li>
     </ul>
-
     <h3>Step 2: Data Cleaning</h3>
     <p>Checked for Null Values.</p>
     <p>Utilized <code>neattext</code> for text cleaning:</p>
@@ -18,9 +16,7 @@
         <li>Handled special characters and noise.</li>
         <li>Managed contractions for improved text processing.</li>
     </ul>
-
     <h2>Model Selection and Fine-tuning</h2>
-
     <h3>Step 3: Model Selection</h3>
     <ul>
         <li>Leveraged Hugging Face Transformers for sentiment analysis.</li>
