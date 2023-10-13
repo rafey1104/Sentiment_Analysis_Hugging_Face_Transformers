@@ -22,9 +22,7 @@
         <li>Leveraged Hugging Face Transformers for sentiment analysis.</li>
         <li>Utilized pre-trained models using the sentiment-analysis pipeline.</li>
     </ul>
-
     <h2>Data Visualization</h2>
-
     <h3>Step 4: Data Visualization</h3>
     <p>Visualized the resultant data, containing 'label' and 'score' columns, using the following techniques:</p>
     <ul>
@@ -33,7 +31,6 @@
         <li>Values.</li>
         <li>Faceted distributions.</li>
     </ul>
-
     <h2>Usage</h2>
     <p>To use this project, follow these steps:</p>
     <ol>
@@ -42,7 +39,6 @@
         <li>Execute the provided Jupyter notebooks or Python scripts for data preprocessing, model selection, and data visualization.</li>
         <li>Analyze the visualizations to gain insights into Instagram PlayStore reviews.</li>
     </ol>
-
     <h2>Resources</h2>
     <ul>
         <li><a href="https://www.kaggle.com/datasets/saloni1712/instagram-play-store-reviews">Kaggle Instagram PlayStore Review Dataset</a></li>
