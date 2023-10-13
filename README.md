@@ -44,7 +44,6 @@
         <li><a href="https://www.kaggle.com/datasets/saloni1712/instagram-play-store-reviews">Kaggle Instagram PlayStore Review Dataset</a></li>
         <li><a href="https://huggingface.co/transformers/">Hugging Face Transformers</a></li>
     </ul>
-
     <h2>Dependencies</h2>
     <p>To run this project, you'll need the following dependencies:</p>
     <ul>
@@ -55,14 +54,11 @@
         <li>Text preprocessing libraries (e.g., neattext, NLTK, SpaCy)</li>
         <li>Hugging Face Transformers library</li>
     </ul>
-
     <h2>Contributors</h2>
     <ul>
         <li><a href="https://github.com/rafey1104">Rafey Ahmed</a> - Project Lead</li>
     </ul>
-
     <h2>License</h2>
     <p>This project is open-source and available under the <a href="LICENSE">MIT License</a>.</p>
-
     <p>Feel free to contribute, report issues, or provide feedback. Your contributions are highly appreciated!</p>
 
